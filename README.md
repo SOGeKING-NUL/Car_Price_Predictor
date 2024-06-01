@@ -1,2 +1,7 @@
 # Car_Price_Predictor
-A basic machine learning model to predict car prices using the data from a csv file
+The project demostrates a Linear Regression model that takes into account the car model, manufacturing company, the year of the model, kms drivcen and the type of fuel it uses to give a predeiction on what the price of the car might be.
+
+
+
+
+reference video: https://www.youtube.com/watch?v=iRCaMnR_bpA
